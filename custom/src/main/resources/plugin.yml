@@ -1,0 +1,5 @@
+name: Custom
+version: ${project.version}
+main: com.boyboy0710.custom.Main
+api-version: 1.16
+description: 1.16.3 스피곳 기반의 플러그인
